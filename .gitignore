@@ -3,3 +3,6 @@ __pycache__/
 **/__pycache__/
 **/.logs/
 *.sh
+pmiyc_extra/data/*.tgz
+pmiyc_extra/data/subjective/
+pmiyc_extra/results/

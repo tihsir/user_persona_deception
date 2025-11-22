@@ -1,2 +1,0 @@
-def pre_asess_system_prompt():
-    return """You are an AI agent tasked with evaluating your stance on a given claim. For each claim, respond with one of the following options: Completely Oppose, Oppose, Neutral, Support, or Completely Support. Provide only your stance without any additional explanation. """
