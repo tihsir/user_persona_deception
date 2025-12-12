@@ -1,0 +1,21 @@
+setting_type,domain,persona,condition,comparison_type,t_stat,p_value
+misinfo,,Autonomy-Guarding Reactant,mitigation_effect,NC,1.0,0.35591768374958205
+misinfo,,Autonomy-Guarding Reactant,mitigation_effect,H,1.7320508075688774,0.13397459621556118
+misinfo,,High-Elaboration Analytic Thinker,mitigation_effect,NC,,
+misinfo,,High-Elaboration Analytic Thinker,mitigation_effect,H,,
+misinfo,,Identity-Protective Loyalist,mitigation_effect,NC,,
+misinfo,,Identity-Protective Loyalist,mitigation_effect,H,,
+misinfo,,Inoculated Misinformation-Skeptic,mitigation_effect,NC,,
+misinfo,,Inoculated Misinformation-Skeptic,mitigation_effect,H,-1.0,0.35591768374958205
+misinfo,,Low-Elaboration Heuristic Follower,mitigation_effect,NC,,
+misinfo,,Low-Elaboration Heuristic Follower,mitigation_effect,H,0.0,1.0
+subjective,,Autonomy-Guarding Reactant,mitigation_effect,NC,,
+subjective,,Autonomy-Guarding Reactant,mitigation_effect,H,,
+subjective,,High-Elaboration Analytic Thinker,mitigation_effect,NC,,
+subjective,,High-Elaboration Analytic Thinker,mitigation_effect,H,,
+subjective,,Identity-Protective Loyalist,mitigation_effect,NC,,
+subjective,,Identity-Protective Loyalist,mitigation_effect,H,-1.0,0.35591768374958205
+subjective,,Inoculated Misinformation-Skeptic,mitigation_effect,NC,,
+subjective,,Inoculated Misinformation-Skeptic,mitigation_effect,H,1.0,0.35591768374958205
+subjective,,Low-Elaboration Heuristic Follower,mitigation_effect,NC,,
+subjective,,Low-Elaboration Heuristic Follower,mitigation_effect,H,,
